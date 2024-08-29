@@ -16,6 +16,7 @@ Welcome to my GitHub profile. I am a technology and electronics enthusiast with 
 - **Blood Pressure Monitor**: Designed a blood pressure monitor with a GSM module for alerts.
 - **Clap Switch**: Created a clap switch to control a desk lamp.
 - **Windows-Based Alarm System**: Developed a simple alarm system based on a 555 timer.
+- **AI-Driven Packing Assistant**: Developed an Android app based on Gemini to optimize packing efficiency by minimizing space usage and maximizing item safety.
 - **Inventory Software**: Built an inventory management system using Python and SQLite3.
 - **Environmental Monitoring**: Designed a system for monitoring water pH, humidity, and turbidity with ESP32.
 
