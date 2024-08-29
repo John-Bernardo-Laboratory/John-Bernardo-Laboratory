@@ -38,7 +38,7 @@ I am available for commissions and consulting in the following areas:
 - **Consulting**: Expert advice and solutions for technology and electronics projects.
 
 ## Contact Information
-- **LinkedIn:** [John Bernardo](www.linkedin.com/in/john-bernardo-867a20319)
+- **LinkedIn:** www.linkedin.com/in/john-bernardo-867a20319
 
 Feel free to explore my repositories, follow my projects, and get in touch if you are interested in collaboration, consulting, or have any questions. 
 I am always excited to connect with like-minded individuals and work on new challenges.
