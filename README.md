@@ -22,7 +22,7 @@ Welcome to my GitHub profile. I am a technology and electronics enthusiast with 
 - **Environmental Monitoring**: Designed a system for monitoring water pH, humidity, and turbidity with ESP32.
 
 ## Skills & Expertise
-- **Programming Languages:** Python, C++, Arduino, MATLAB, SQL, Pascal, Assembly, Java, JavaScript, PHP, CSS, HTML, BASIC
+- **Programming Languages:** Python, C++, Arduino, MATLAB, SQL, Pascal, Assembly, Java, JavaScript, PHP, CSS, HTML, BASIC, C#
 - **Frameworks & Libraries:** TensorFlow Lite, tkinter, OpenCV, Keras, Scikit-Learn, Flask, Django
 - **Hardware Proficiency:** ESP32, ESP8266, Arduino, STM32, Raspberry Pi, Orange Pi, SST27SF256, Z80 CPU, GSM Modules, RFID Sensors
 - **Machine Learning & AI:** YOLO, CNN, RNN, KNN, Segmentation, Neural Networks, Object Detection, Image Classification
