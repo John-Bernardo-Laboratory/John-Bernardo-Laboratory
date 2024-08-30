@@ -6,6 +6,7 @@ Welcome to my GitHub profile. I am a technology and electronics enthusiast with 
 - **Universal EEPROM Programmer**: Developed and integrated a versatile EEPROM programmer with support for ESP32 and ESP8266 platforms.
 - **Sign Language Recognition**: Implemented a machine learning model using flex sensors for recognizing sign language.
 - **Automated Outlet**: Designed an outlet control system using ESP8266.
+- **Knee Brace with GPS Tracking**: GPS-enabled knee brace for real-time location and safety alerts.
 - **Waste Segregator**: Created an instance segmentation model for waste segregation.
 - **8-Bit Computer**: Designed and built an 8-bit computer based on the Z80 CPU.
 - **Arduino Game Console**: Developed a game console using Arduino.
