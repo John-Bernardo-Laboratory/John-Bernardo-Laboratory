@@ -9,6 +9,7 @@ Welcome to my GitHub profile. I am a technology and electronics enthusiast with 
 - **Knee Brace with GPS Tracking**: GPS-enabled knee brace for real-time location and safety alerts.
 - **Waste Segregator**: Created an instance segmentation model for waste segregation.
 - **8-Bit Computer**: Designed and built an 8-bit computer based on the Z80 CPU.
+- **Arduino Piano and Launchpad**: Interactive piano and launchpad based on Arduino Leonardo for music production.
 - **Arduino Game Console**: Developed a game console using Arduino.
 - **Humanoid Robot**: Constructed a 22 DOF humanoid robot inspired by the Kondo KHR-3HV.
 - **Simple Walking Robot**: Built a robot capable of basic walking movements.
@@ -37,6 +38,8 @@ I am available for commissions and consulting in the following areas:
 - **Hardware Design**: Development of hardware prototypes and systems.
 - **Thesis Prototypes**: Assistance with creating prototypes for academic projects.
 - **Consulting**: Expert advice and solutions for technology and electronics projects.
+- **Music Production and Mastering**: Services for music production and audio mastering.
+- **Web Development**: Full-stack development for creating and maintaining websites and web applications.
 
 ## Contact Information
 - **LinkedIn:** www.linkedin.com/in/john-bernardo-867a20319
