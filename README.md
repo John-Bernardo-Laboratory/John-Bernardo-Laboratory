@@ -5,16 +5,17 @@ Welcome to my GitHub profile. I am a technology and electronics enthusiast with 
 ## Completed Projects
 - **Universal EEPROM Programmer**: Developed and integrated a versatile EEPROM programmer with support for ESP32 and ESP8266 platforms.
 - **Sign Language Recognition**: Implemented a machine learning model using flex sensors for recognizing sign language.
+- **8-Bit Computer**: Designed and built an 8-bit computer based on the Z80 CPU.
 - **Automated Outlet**: Designed an outlet control system using ESP8266.
 - **Knee Brace with GPS Tracking**: GPS-enabled knee brace for real-time location and safety alerts.
 - **Waste Segregator**: Created an instance segmentation model for waste segregation.
-- **8-Bit Computer**: Designed and built an 8-bit computer based on the Z80 CPU.
 - **Arduino Piano and Launchpad**: Interactive piano and launchpad based on Arduino Leonardo for music production.
 - **Arduino Game Console**: Developed a game console using Arduino.
 - **Humanoid Robot**: Constructed a 22 DOF humanoid robot inspired by the Kondo KHR-3HV.
 - **Simple Walking Robot**: Built a robot capable of basic walking movements.
 - **Robot Arm**: Developed a robot arm with voice activation and camera integration.
 - **Automated Traffic Lights**: Implemented a traffic light system using Arduino and NRF24L01.
+- **Simple Vehicle Counting Using OpenCV:** Developed a vehicle counting system using OpenCV for image processing.
 - **Blood Pressure Monitor**: Designed a blood pressure monitor with a GSM module for alerts.
 - **Clap Switch**: Created a clap switch to control a desk lamp.
 - **Windows-Based Alarm System**: Developed a simple alarm system based on a 555 timer.
