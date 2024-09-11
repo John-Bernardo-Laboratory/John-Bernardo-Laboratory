@@ -23,23 +23,21 @@ Welcome to my GitHub profile. I am a technology and electronics enthusiast with 
 - **Environmental Monitoring**: Designed a system for monitoring water pH, humidity, and turbidity with ESP32.
 
 ## Skills & Expertise
-- **Programming Languages:** Python, C++, Arduino, MATLAB, SQL, Pascal, Assembly, Java, JavaScript, PHP, CSS, HTML, BASIC, C#
-- **Frameworks & Libraries:** TensorFlow Lite, tkinter, OpenCV, Keras, Scikit-Learn, Flask, Django
-- **Hardware Proficiency:** ESP32, ESP8266, Arduino, STM32, Raspberry Pi, Orange Pi, SST27SF256, Z80 CPU, GSM Modules, RFID Sensors
-- **Machine Learning & AI:** YOLO, CNN, RNN, KNN, Segmentation, Neural Networks, Object Detection, Image Classification
-- **Embedded Systems:** Microcontroller Programming, Sensor Integration, Actuator Control
-- **Web Development:** HTML, CSS, JavaScript, PHP, Flask, Django
-- **Ethical Hacking:** Network Security, Vulnerability Assessment, Penetration Testing
+- **Programming Languages:** Python, C++, MATLAB, Assembly, Java, SQL, JavaScript, CSS, HTML
+- **Frameworks & Libraries:** TensorFlow, tkinter, OpenCV, numpy
+- **Hardware Proficiency:** ESP32, ESP8266, Arduino, STM32, Raspberry Pi, Z80 CPU
+- **Machine Learning & AI:** YOLO, CNN, RNN, KNN
 - **Hardware Hacking:** Reverse Engineering, Circuit Analysis, Hardware Exploits
+- **Sound Design:** FL Studio
 
 ## Services Offered
 I am available for commissions and consulting in the following areas:
 - **Software Development**: Custom software solutions tailored to your needs.
+- **Web Development**: Full-stack development for creating and maintaining websites and web applications.
 - **Hardware Design**: Development of hardware prototypes and systems.
 - **Thesis Prototypes**: Assistance with creating prototypes for academic projects.
 - **Consulting**: Expert advice and solutions for technology and electronics projects.
 - **Music Production and Mastering**: Services for music production and audio mastering.
-- **Web Development**: Full-stack development for creating and maintaining websites and web applications.
 
 ## Contact Information
 - **LinkedIn:** www.linkedin.com/in/john-bernardo-867a20319
